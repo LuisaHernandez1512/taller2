@@ -27,7 +27,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="52dp"
         android:gravity="center"
-        android:text="Ingresa la cantidad de números de la serie Fibonacci que deseas ver"
+        android:text="@string/txt_fibonacci"
         android:textColor="#000000"
         android:textSize="16sp"
         android:textStyle="bold"

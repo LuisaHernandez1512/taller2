@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Taller2</string>
+    <string name="txt_principal">APLICACION XYZ</string>
+    <string name="txt_ingresar">Ingresa el nombre de usuario</string>
+    <string name="text_btn_continuar">Continuar</string>
+    <string name="txt_btn_Fibonacci">Fibonacci</string>
+    <string name="txt_btn_ecuacionCuadraticano" />
+    <string name="txt_btn_ecuacionCuadratica">Ecuacion cuadratica</string>
+    <string name="txt_btn_OrdenarDatos">Ordenar datos</string>
+    <string name="txt_edittext_cantidad">Ingresa la cantidad de numeros (cambiar)</string>
+    <string name="txt_boton_respuesta1">Generar</string>
+    <string name="txt_titulofibonacci">Ingresa la cantidad de números de la serie Fibonacci que deseas ver</string>
+    <string name="txt_titulo">Ecuacion Cuadratica General</string>
+    <string name="txt_num_a">Ingresa el valor de a</string>
+    <string name="txt_num_b">Ingresa el valor de b</string>
+    <string name="txt_num_c">Ingresa el valor de c</string>
+    <string name="txt_btn_calcular">Calcular</string>
+    <string name="txt_titulo_ordenarD">Ordena tus numeros</string>
+    <string name="txt_radiobtn_asc">Ascendente</string>
+    <string name="txt_radiobtn_desc">Descendiente</string>
+    <string name="txt_btn_ordenar">Ordenar</string>
+</resources>

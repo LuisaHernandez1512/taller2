@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1B1462"
+    android:orientation="vertical"
+    android:visibility="visible"
+    tools:context=".HomeActivity">
+
+    <ImageView
+        android:id="@+id/imagen1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight=".5"
+        android:scaleType="fitXY"
+        tools:srcCompat="@drawable/imgprincipal2" />
+
+    <Button
+        android:id="@+id/btnfibonacci"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:backgroundTint="#313A80"
+        android:text="@string/txt_btn_Fibonacci"
+        android:textColor="#FFFFFF"
+        android:textSize="34sp" />
+
+    <Button
+        android:id="@+id/btnEcuacionc"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:backgroundTint="#313A80"
+        android:text="@string/txt_btn_ecuacionCuadratica"
+        android:textColor="#FFFFFF"
+        android:textSize="34sp" />
+
+    <Button
+        android:id="@+id/btnOrdenard"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="@string/txt_btn_OrdenarDatos"
+        android:backgroundTint="#313A80"
+        android:textColor="#FFFFFF"
+        android:textSize="34sp"/>
+</LinearLayout>
